@@ -1,5 +1,5 @@
  <h1 align="center">
-  Buscando Restaurantes - Zomato API
+  Teste commit
 </h1>
 
 <p align="center">Consumindo Zomato API para buscas de cidades e restaurantes da sua escolha</p>
