@@ -17,7 +17,7 @@
 - [x] Busca por Cidades
 - [x] Busca por restaurantes a partir da cidade digitada
 - [x] Filtro por avaliações
-- [x] Responsividade
+- [x] Responsividade 
 - [ ] Filtro de culinária e preço médio
 
 ## Ferramentas utilizadas
