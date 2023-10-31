@@ -2,7 +2,7 @@
   Teste commit
 </h1>
 
-<p align="center">Consumindo Zomato API para buscas de cidades e restaurantes da sua escolha</p>
+<p align="center">Curso Lógica da programação - Alura</p>
 
 <hr>
 
