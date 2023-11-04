@@ -14,18 +14,17 @@
 
 ## Funcionalidades
 
-- [x] Busca por Cidades
-- [x] Busca por restaurantes a partir da cidade digitada
-- [x] Filtro por avaliações
-- [x] Responsividade 
-- [ ] Filtro de culinária e preço médio
+- [x] Calculadora de idade 
+- [x] Calculadora de IMC 
+
+
 
 ## Ferramentas utilizadas
 
 - [x] JavaScript
 - [x] HTML
 - [x] GitHub
-- [] 
+
 
 ## Iniciando a Aplicação
 1. Acesse o site `https://developers.zomato.com/api?lang=pt#headline2` e gere sua `KEY` .<br />
